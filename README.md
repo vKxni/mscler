@@ -103,4 +103,4 @@ iex> Mscler.Chest.getEquipment
 ...
 ``` 
 
-© Xadara 2022, [MIT Licence](/LICENSE), by [@vKxni](https://github.com/vKxni).
+© Mscler 2022, [MIT Licence](/LICENSE), by [@vKxni](https://github.com/vKxni).
